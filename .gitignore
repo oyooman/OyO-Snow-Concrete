@@ -1,0 +1,8 @@
+# Ignore system files
+*.tmp
+*.bak
+.DS_Store
+thumbs.db
+
+# Ignore Archive files 
+*.zip

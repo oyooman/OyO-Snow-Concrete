@@ -1,0 +1,10 @@
+{
+  "name": "OyO-Snow-Concrete",
+  "version": "1.0.0",
+  "title": "OyO-Snow-Concrete",
+  "author": "Oyooman",
+  "homepage": "n/a",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0.0", "space-age >= 2.0.0"],
+  "description": "Variations of hazard concrete and tinted concrete compatible with snow."
+}
