@@ -31,4 +31,4 @@
 - mod is a bit heavy as i had to use hazard properties + png instead of concrete properties + tints for the tinted version as the base game concrete tinted have bugged transition.
 
 ## Credits and thanks
-- Thanks to [OSHA Safety mod](https://mods.factorio.com/mod/osha_safety) and [Concrete Tints](https://mods.factorio.com/mod/Concrete-Tints) for hazard textures and giving me the idea of creating this mode.
+- Thanks to [OSHA Safety mod](https://mods.factorio.com/mod/osha_safety) and [Concrete Tints](https://mods.factorio.com/mod/Concrete-Tints) for hazard textures and giving me the idea of creating this mod.
