@@ -25,7 +25,7 @@
 
 ## Integrations with other planets/mods: 
 - should not cause any problem for now. 
-- Spage Age is mandatory.
+- Space Age is mandatory.
 
 ## issues:
 - mod is a bit heavy as i had to use hazard properties + png instead of concrete properties + tints for the tinted version as the base game concrete tinted have bugged transition.
